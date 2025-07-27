@@ -3,3 +3,5 @@ page-top-title: Zhuoya Cao
 top-section-bg-text: Astrophysics and Planetary Dynamics
 home-subtitle: Zhuoya Cao&ensp;|&ensp;曹卓雅
 copyright-text: '&copy; Zhuoya Cao 2025-2026. All Rights Reserved.'
+include:
+  - contents/research.md
