@@ -1,13 +1,21 @@
-- National Scholarship of Graduate Student, 2024.
+#### <strong>Scholarships</strong>
 
-- First-prize Scholarship of CUMT, 2024.
+- Scholarship for Comprehensive Development (top 2% out of 200+), 2025.
 
-- First-prize Scholarship of CUMT, 2023.
+- Scholarship for Comprehensive Excellence of Tsinghua University (top 10% out of 200+), 2022.
 
-- Freshman Scholarship of CUMT, 2022.
+- Tsinghua Xuetang Scholarship, 2021-2025.
 
-- Excellent Graduation Project of Jiangsu Province, 2022.
+- Aeon Scholarship (top 0.5% out of 3800), 2024.
 
-- First-prize Enterprise Scholarship of CUMT, 2020.
+#### <strong>Grants</strong>
 
-- First-prize Scholarship of CUMT, 2019.
+- Senior Undergraduate Research Fellowship, 2024.
+
+- Academic Promotion Program of Tsinghua University, 2024.
+
+- Tsinghua TopOpen Program for Overseas Research Internship, 2024.
+
+- Open Research for Innovative Challenges Program, 2024.
+
+- Student Research Training Program, 2022-2023.
